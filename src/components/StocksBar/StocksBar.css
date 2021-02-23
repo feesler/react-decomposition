@@ -1,0 +1,5 @@
+.stock-bar {
+  display: flex;
+  flex-flow: row nowrap;
+}
+

@@ -1,0 +1,24 @@
+.title-item {
+  margin-right: 1rem;
+}
+
+.title-item__link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.title-item__link:hover {
+  color: #cc0000;
+}
+
+.title {
+  margin: 0;
+  font-size: 136%;
+  font-weight: 500;
+  white-space: nowrap;
+  color: #6da2e1;
+}
+
+.title_active {
+  color: #0054b9;
+}

@@ -1,0 +1,26 @@
+.widget {
+  display: flex;
+  flex-flow: column nowrap;
+  break-inside: avoid;
+  margin-bottom: 1rem;
+  padding-right: 10px;
+  border: 0 none;
+}
+
+.widget__top-image {
+  width: 100px;
+  height: 100px;
+  margin-top: 0.5rem;
+  border-radius: 50%;
+  border: 2px solid #666666;
+  overflow: hidden;
+  background-color: #008080;
+}
+
+.widget__top-image img {
+  width: 100%;
+}
+
+.widget__content {
+  margin: 0.5rem 0.5rem 0.5rem 0;
+}

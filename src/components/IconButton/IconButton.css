@@ -1,0 +1,17 @@
+.icon-btn {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  height: 1.2rem;
+  font-size: 0.9rem;
+  padding: 0.1rem 0.5rem;
+  text-decoration: none;
+  color: #f2f2f2;
+  border-radius: 0.25rem;
+  background: linear-gradient(45deg, #5bbfef, #6b7aff);
+}
+
+.icon-btn img {
+  height: 100%;
+  margin-right: 0.5rem;
+}

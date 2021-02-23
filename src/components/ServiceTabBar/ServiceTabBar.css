@@ -1,0 +1,6 @@
+.service-tab-bar {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}

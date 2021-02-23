@@ -1,0 +1,26 @@
+body {
+  color: #333333;
+  padding-top: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+}
+
+.main-block {
+  flex-flow: column nowrap;
+}
+
+.bottom-widgets {
+  display: block;
+  column-count: 3;
+}
+
+.align-end {
+  align-items: flex-end;
+}

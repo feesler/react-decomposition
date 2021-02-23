@@ -1,0 +1,25 @@
+.stock-quote {
+  margin-right: 1rem;
+  margin-top: 0.5rem;
+}
+
+.stock-quote__title {
+  margin-right: 0.3rem;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.6px;
+  color: #000000;
+}
+
+.stock-quote__title:hover {
+  color: #cc0000;
+}
+
+.stock-quote__price {
+  font-weight: 400;
+  margin-right: 0.3rem;
+}
+
+.stock-quote__change {
+  color: #bbbbbb;
+}

@@ -1,0 +1,25 @@
+.weather {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.weather-now {
+  display: flex;
+  flex-flow: row nowrap;
+  height: 50px;
+  margin-right: 0.5rem;
+}
+
+.weather-icon {
+  height: 100%;
+}
+
+.weather-temp {
+  font-size: 2rem;
+}
+
+.weather-next {
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: 1rem;
+}

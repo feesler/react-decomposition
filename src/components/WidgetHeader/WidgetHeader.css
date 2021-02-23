@@ -1,0 +1,6 @@
+.widget-title {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: baseline;
+  padding-top: 0.5rem;
+}
