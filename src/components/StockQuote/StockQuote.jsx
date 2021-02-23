@@ -44,4 +44,3 @@ StockQuote.defaultProps = {
 };
 
 export default StockQuote;
-

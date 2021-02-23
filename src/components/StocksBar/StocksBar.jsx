@@ -23,4 +23,3 @@ StocksBar.propTypes = {
 };
 
 export default StocksBar;
-

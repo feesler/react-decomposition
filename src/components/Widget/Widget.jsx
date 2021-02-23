@@ -43,4 +43,3 @@ Widget.propTypes = {
 };
 
 export default Widget;
-

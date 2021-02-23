@@ -24,5 +24,4 @@ Container.defaultProps = {
   className: '',
 };
 
-export default Container
-
+export default Container;

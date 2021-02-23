@@ -20,10 +20,9 @@ ServiceTabBar.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.string.isRequired,
-      ...TitleItem.propTypes
+      ...TitleItem.propTypes,
     }),
   ),
 };
 
-export default ServiceTabBar
-
+export default ServiceTabBar;

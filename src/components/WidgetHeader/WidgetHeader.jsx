@@ -28,4 +28,3 @@ WidgetHeader.propTypes = {
 };
 
 export default WidgetHeader;
-
