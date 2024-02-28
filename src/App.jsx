@@ -78,7 +78,7 @@ function App() {
           <StocksBar quotes={appData.stockQuotes} />
         </NewsWidget>
 
-        <Widget title="Работа над ошибками" image={rulesPic} link="#">
+        <Widget className="promo-widget" title="Работа над ошибками" image={rulesPic} link="#">
           <p>Смотрите на <b>Startup</b> и запоминайте</p>
         </Widget>
       </Container>

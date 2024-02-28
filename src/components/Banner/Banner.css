@@ -1,3 +1,7 @@
 .banner {
   margin: 1rem 0;
 }
+
+.banner__img {
+  width: 100%;
+}

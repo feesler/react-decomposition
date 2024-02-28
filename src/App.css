@@ -18,9 +18,26 @@ p {
 
 .bottom-widgets {
   display: block;
-  column-count: 3;
+  column-count: 2;
+}
+
+@media (min-width: 768px) {
+  .bottom-widgets {
+    column-count: 3;
+  }
 }
 
 .align-end {
   align-items: flex-end;
+}
+
+/* Promo widget */
+.promo-widget {
+  display: none;
+}
+
+@media (min-width: 576px) {
+  .promo-widget {
+    display: flex;
+  }
 }

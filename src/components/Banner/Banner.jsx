@@ -12,7 +12,7 @@ function Banner(props) {
   return (
     <div className="banner">
       <a href={link}>
-        <img src={image} />
+        <img className="banner__img" src={image} />
       </a>
     </div>
   )

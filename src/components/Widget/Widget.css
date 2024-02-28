@@ -23,4 +23,5 @@
 
 .widget__content {
   margin: 0.5rem 0.5rem 0.5rem 0;
+  overflow: hidden;
 }
